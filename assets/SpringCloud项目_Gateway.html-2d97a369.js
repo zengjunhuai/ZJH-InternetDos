@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-1e400a3a","path":"/SpringCloud/SpringCloud%E9%A1%B9%E7%9B%AE_Gateway.html","title":"SpringCloud项目_Gateway","lang":"zh-CN","frontmatter":{"title":"SpringCloud项目_Gateway","seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":15},"filePathRelative":"SpringCloud/SpringCloud项目_Gateway.md"}');export{a as data};

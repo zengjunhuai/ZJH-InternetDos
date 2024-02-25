@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-418a5005","path":"/cooperation/summarize.html","title":"技术总结","lang":"zh-CN","frontmatter":{"title":"技术总结","seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.02,"words":5},"filePathRelative":"cooperation/summarize.md"}');export{e as data};

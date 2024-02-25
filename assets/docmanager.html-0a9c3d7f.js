@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-61321c77","path":"/cooperation/docManager.html","title":"项目技术文档管理","lang":"zh-CN","frontmatter":{"title":"项目技术文档管理","seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":9},"filePathRelative":"cooperation/docManager.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0c22d512","path":"/KafKa/KafKa%E9%A1%B9%E7%9B%AE/KafKa%E9%A1%B9%E7%9B%AE_%E6%B6%88%E8%B4%B9%E8%80%85.html","title":"Kafka项目_消费者","lang":"zh-CN","frontmatter":{"title":"Kafka项目_消费者","seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":8},"filePathRelative":"KafKa/KafKa项目/KafKa项目_消费者.md"}');export{a as data};

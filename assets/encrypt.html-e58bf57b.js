@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c151bf32","path":"/demo/encrypt.html","title":"文档2","lang":"zh-CN","frontmatter":{"title":"文档2","icon":"lock","category":["使用指南"],"tag":["文章加密"],"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":16},"filePathRelative":"demo/encrypt.md"}');export{e as data};

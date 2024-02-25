@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c,d as o}from"./app-b5233593.js";const t={},a=o("blockquote",null,[o("p",null,"该文章参考作者macrozheng博客")],-1),l=[a];function n(r,s){return _(),c("div",null,l)}const u=e(t,[["render",n],["__file","SpringCloud项目_Alibaba_Nacos.html.vue"]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as t,d as o}from"./app-b5233593.js";const _={},c=o("blockquote",null,[o("p",null,"该文章参考作者macrozheng博客")],-1),l=[c];function r(s,a){return n(),t("div",null,l)}const i=e(_,[["render",r],["__file","SpringCloud项目_Consul.html.vue"]]);export{i as default};

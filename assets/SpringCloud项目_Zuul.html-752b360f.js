@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b28c13fc","path":"/SpringCloud/SpringCloud%E9%A1%B9%E7%9B%AE_Zuul.html","title":"SpringCloud项目_Zuul","lang":"zh-CN","frontmatter":{"title":"SpringCloud项目_Zuul","seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":15},"filePathRelative":"SpringCloud/SpringCloud项目_Zuul.md"}');export{e as data};

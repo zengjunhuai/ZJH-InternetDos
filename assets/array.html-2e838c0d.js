@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-4edf4180","path":"/Java/DataStructure/DataStructure/array.html","title":"数组","lang":"zh-CN","frontmatter":{"title":"数组","seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":1.52,"words":456},"filePathRelative":"Java/DataStructure/DataStructure/array.md"}');export{a as data};

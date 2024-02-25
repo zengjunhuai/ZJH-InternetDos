@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f14eda5e","path":"/Java/DataStructure/DataStructure/Stack.html","title":"栈","lang":"zh-CN","frontmatter":{"title":"栈","seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":2},"filePathRelative":"Java/DataStructure/DataStructure/Stack.md"}');export{t as data};

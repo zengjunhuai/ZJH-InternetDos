@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7d14354a","path":"/DataBase/MiddleTool/Mycat%E9%A1%B9%E7%9B%AE/MyCat%E5%AE%89%E5%85%A8%E8%AE%BE%E7%BD%AE.html","title":"MyCat安全设置","lang":"zh-CN","frontmatter":{"title":"MyCat安全设置","seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.02,"words":6},"filePathRelative":"DataBase/MiddleTool/Mycat项目/MyCat安全设置.md"}');export{a as data};

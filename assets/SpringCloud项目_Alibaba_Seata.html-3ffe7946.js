@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as _,d as e}from"./app-b5233593.js";const a={},c=e("blockquote",null,[e("p",null,"该文章参考作者macrozheng博客")],-1),l=[c];function n(r,s){return t(),_("div",null,l)}const u=o(a,[["render",n],["__file","SpringCloud项目_Alibaba_Seata.html.vue"]]);export{u as default};

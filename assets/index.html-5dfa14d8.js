@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-6171e57a","path":"/Java/DataStructure/algorithm/","title":"Java算法","lang":"zh-CN","frontmatter":{"title":"Java算法","index":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.02,"words":6},"filePathRelative":"Java/DataStructure/algorithm/README.md"}');export{a as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-06bd58d2","path":"/Project/tool.html","title":"好用工具分享","lang":"zh-CN","frontmatter":{"title":"好用工具分享","seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.02,"words":7},"filePathRelative":"Project/tool.md"}');export{t as data};

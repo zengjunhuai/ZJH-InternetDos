@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as t,d as e}from"./app-b5233593.js";const _={},c=e("blockquote",null,[e("p",null,"该文章参考作者macrozheng博客")],-1),r=[c];function l(s,a){return n(),t("div",null,r)}const p=o(_,[["render",l],["__file","SpringCloud项目_OpenFeign.html.vue"]]);export{p as default};
